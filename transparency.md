@@ -1,5 +1,7 @@
 # Transparency
-Network: Base • Treasury (Safe): <0x51B1d1969EC36AddEB9faD31882BB3bcda07AD79>
+Network: Base 
+
+• Treasury (Safe): <0x51B1d1969EC36AddEB9faD31882BB3bcda07AD79>
 
 Docs: https://github.com/<org>/nurtal-docs
 
