@@ -1,13 +1,11 @@
-# NurtalDAO Docs
+# NurtalDAO — AI-Powered Biology (Docs Hub)
 
-This repository contains documentation, governance frameworks, and transparency updates for **NurtalDAO**, the first project of Nurtal Biotechnology.
+We’re building a community-owned platform where biological datasets, AI models, and reproducibility tools are created and governed openly.
 
-## Contents
-- **whitepaper-lite.md** → Project overview, problem, solution, milestones, tokenomics, governance, risks.  
-- **transparency.md** → Treasury address, signers, governance phase.  
-- **roadmap.md** → DAO-level roadmap (Milestones M0–M3).  
+- 📜 Whitepaper-Lite: ./whitepaper-lite.md
+- 🗺️ Roadmap: ./roadmap.md
+- 🪪 Transparency: ./transparency.md
+- 💬 Discord: https://discord.gg/GEc9uqz8
+- 🧾 Safe (Base): 0x51B1d1969EC36AddEB9faD31882BB3bcda07AD79
 
-## Purpose
-- Ensure open and transparent development of NurtalDAO.  
-- Provide a single source of truth for project status and governance.  
-- Help the community and Bio.xyz reviewers understand NurtalDAO’s structure.  
+Repos: Token → https://github.com/<org>/nurtal-token | Platform → https://github.com/<org>/nurtal-platform
